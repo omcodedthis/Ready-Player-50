@@ -16,4 +16,4 @@ Note that certain parts of the certificate have been blurred for privacy. The or
 
 
 ## My Thoughts
-Being able to not only gain some insight on prompt engineering and, in turn, prompt-injection attacks was a great opportunity. Large Language Models (LLMs) are becoming interconnected with the technology that we use today & keeping these secure is key as we continue to increase our reliance on them. This event provided a great foundation on the threats that LLMs can face and how to tackle them. All in all, this was an enriching & insightful experience.
+Being able to not only gain some insight on prompt engineering but also prompt-injection attacks was a great opportunity. Large Language Models (LLMs) are becoming interconnected with the technology that we use today & keeping these secure is key as we continue to increase our reliance on them. This event provided a great foundation on the threats that LLMs can face and how to tackle them. All in all, this was an enriching & insightful experience.
